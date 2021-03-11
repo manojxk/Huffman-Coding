@@ -14,9 +14,11 @@ Huffman Coding is one of the lossless data compression techniques. It assigns va
 5.Encode the input text. Added padding to the encoded text, if it’s not of a length of multiple of 8. Stored this padding information, in 8 bits, in the beginning of the resultant code.<br/>
 6.Write the result to an output binary file, which will be our compressed file.<br/>
 
-## decompression
+## Decompression
 1.Read binar file<br/>
 2.Read padding information. Remove the padded bits<br/>
 3.Decode the bits - read the bits and replace the valid Huffman Code bits with the character output<br/>
 4.Save the decoded data to output file<br/>
+
+
 
