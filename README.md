@@ -20,5 +20,13 @@ Huffman Coding is one of the lossless data compression techniques. It assigns va
 3.Decode the bits - read the bits and replace the valid Huffman Code bits with the character output<br/>
 4.Save the decoded data to output file<br/>
 
+![Screenshot (32)](https://user-images.githubusercontent.com/71879662/110785272-c233ac80-8290-11eb-8041-d623d806f70b.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/71879662/110785276-c364d980-8290-11eb-8123-104301e7f5c8.png)
+![Screenshot (34)](https://user-images.githubusercontent.com/71879662/110785281-c3fd7000-8290-11eb-86e9-4d1ab0f59113.png)
+![Screenshot (35)](https://user-images.githubusercontent.com/71879662/110785284-c4960680-8290-11eb-91bf-f4b9a0fe6655.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/71879662/110785287-c52e9d00-8290-11eb-88ae-5de4d033b811.png)
+
+
+
 
 
