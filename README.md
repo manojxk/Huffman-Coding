@@ -15,8 +15,8 @@ Huffman Coding is one of the lossless data compression techniques. It assigns va
 6.Write the result to an output binary file, which will be our compressed file.<br/>
 
 ## decompression
-1.Read binar file
-2.Read padding information. Remove the padded bits
-3.Decode the bits - read the bits and replace the valid Huffman Code bits with the character output
-4.Save the decoded data to output file
+1.Read binar file<br/>
+2.Read padding information. Remove the padded bits<br/>
+3.Decode the bits - read the bits and replace the valid Huffman Code bits with the character output<br/>
+4.Save the decoded data to output file<br/>
 
